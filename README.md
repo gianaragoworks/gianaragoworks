@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep improving. 🚀</i>
+  <i>Learning • Building • Improving 🚀</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **2nd-year Computer Science student** interested in software development, web technologies, and cybersecurity.
+I'm a **2nd-year Computer Science student** passionate about learning software development and building practical projects.
 
-I enjoy learning through hands-on projects, experimenting with new technologies, and turning ideas into practical applications. I'm currently focused on strengthening my programming fundamentals while exploring modern web development.
+I'm currently strengthening my programming fundamentals while exploring web development, modern frameworks, and other areas of computer science. I enjoy learning through hands-on projects and turning ideas into working applications.
 
 - 🎓 Computer Science Student
 - 💻 Aspiring Software Developer
@@ -29,7 +29,7 @@ I enjoy learning through hands-on projects, experimenting with new technologies,
 - 🐍 Improving my Python skills
 - ☕ Coffee enthusiast
 - 🚀 Learning by building projects
-- 📚 Always improving my programming skills
+- 📚 Always working on improving my programming skills
 
 ---
 
@@ -53,44 +53,48 @@ I enjoy learning through hands-on projects, experimenting with new technologies,
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages and Tools
 
 <p align="center">
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
 </a>
 
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
 </a>
 
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 </a>
 
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </a>
 
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </a>
 
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45" height="45"/>
+</a>
+
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="45" height="45"/>
 </a>
 
 </p>
@@ -99,23 +103,31 @@ I enjoy learning through hands-on projects, experimenting with new technologies,
 
 ## 🚀 Featured Project
 
-<table>
-<tr>
-<td width="100%">
-
 ### ☕ Coffee with Gian
 
 A personal web development project centered around a coffee-themed concept.
 
-<br>
+<p align="center">
 
 <a href="https://github.com/gianaragoworks/Coffee-with-gian">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=gianaragoworks&repo=Coffee-with-gian&theme=github_dark&hide_border=true"
+    alt="Coffee with Gian"
+  />
 </a>
 
-</td>
-</tr>
-</table>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/gianaragoworks/Coffee-with-gian">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Repository"
+  />
+</a>
+
+</p>
 
 ---
 
@@ -124,7 +136,10 @@ A personal web development project centered around a coffee-themed concept.
 <p align="center">
 
 <a href="https://github.com/gianaragoworks?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  <img
+    src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Repositories"
+  />
 </a>
 
 </p>
@@ -139,8 +154,8 @@ A personal web development project centered around a coffee-themed concept.
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=gianaragoworks&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
-alt="GitHub Stats"
+  src="https://github.spoko.space/stats?theme=tokyo"
+  alt="GitHub Stats"
 />
 
 </td>
@@ -148,8 +163,8 @@ alt="GitHub Stats"
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianaragoworks&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-alt="Top Languages"
+  src="https://github.spoko.space/langs?theme=tokyo"
+  alt="Most Used Languages"
 />
 
 </td>
@@ -159,31 +174,16 @@ alt="Top Languages"
 
 ---
 
-## ⭐ GitHub Statistics
+# ⭐ GitHub Overview
 
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
+<p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=gianaragoworks&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&hide_rank=true&hide=prs,issues"
-alt="GitHub Statistics"
+  src="https://github-readme-stats.vercel.app/api?username=gianaragoworks&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
+  alt="GitHub Overview"
 />
 
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianaragoworks&layout=donut&langs_count=6&hide_border=true&theme=github_dark"
-alt="Top Languages"
-/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -192,8 +192,8 @@ alt="Top Languages"
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=gianaragoworks&theme=github-dark&hide_border=true"
-alt="GitHub Contribution Streak"
+  src="https://github.spoko.space/streak?theme=tokyo"
+  alt="GitHub Contribution Streak"
 />
 
 </p>
@@ -205,8 +205,8 @@ alt="GitHub Contribution Streak"
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=gianaragoworks&theme=github-dark&hide_border=true&area=true&custom_title=Gian%20Carlo's%20Contribution%20Activity"
-alt="GitHub Contribution Activity"
+  src="https://github.spoko.space/contrib?theme=tokyo"
+  alt="GitHub Contribution Activity"
 />
 
 </p>
@@ -217,12 +217,18 @@ alt="GitHub Contribution Activity"
 
 <p align="center">
 
-<a href="https://github.com/gianaragoworks">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/gianaragoworks" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<a href="YOUR-LINKEDIN-URL-HERE">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="YOUR-LINKEDIN-URL-HERE" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </p>
